@@ -1,8 +1,8 @@
-# Full Name 
+# Sneha T S
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>I am Sneha T S, a third-year B.Tech student at the College of Engineering Chengannur. I enjoy learning web development and design. I love creating simple and clean websites. I am still learning new tools and ideas every day and trying to improve my skills step by step.
 
 
 ## Portfolio Highlights
@@ -16,15 +16,15 @@
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+I demonstrate leadership and influence by taking initiative in team projects, mentoring peers, and guiding collaborative efforts to successful outcomes through clear communication and motivation.
+
 
 #### Networking:
-
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+I actively build connections through collaboration, knowledge sharing, and peer support, and I plan to engage with communities by participating in forums, organizing study groups, and leading initiatives that inspire and guide others in my field.
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+I will join startup programs, learn new things, and help others with my skills. Later, I want to start my own startup and support others in Kerala’s startup world.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
